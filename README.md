@@ -1,5 +1,7 @@
 Welcome to Max Points, a site hosted on Vercel and MongoDB Atlas
 
+URL: https://next-max-points.vercel.app/
+
 
 # Technology Used
 - Typescript
