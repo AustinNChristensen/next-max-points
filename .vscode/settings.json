@@ -1,0 +1,6 @@
+{
+    "findUnusedExports.detectCircularImports": true,
+    "jest.jestCommandLine": "npm run test --",
+    "todo-tree.tree.scanMode": "workspace only",
+    "todo-tree.tree.showBadges": true
+}

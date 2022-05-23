@@ -1,0 +1,520 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Top Cards Container matches snapshot 1`] = `
+<div>
+  <div
+    class="px-4 sm:px-6 lg:px-8"
+  >
+    <div
+      class="sm:flex sm:items-center"
+    >
+      <div
+        class="sm:flex-auto"
+      >
+        <h1
+          class="text-xl font-semibold text-gray-900"
+        >
+          All Cards
+        </h1>
+        <p
+          class="mt-2 text-sm text-gray-700"
+        >
+          A list of all Credit Cards
+        </p>
+      </div>
+    </div>
+    <div
+      class="mt-8 flex flex-col"
+    >
+      <div
+        class="-my-2 -mx-4 overflow-x-auto sm:-mx-6 lg:-mx-8"
+      >
+        <div
+          class="inline-block min-w-full py-2 align-middle md:px-6 lg:px-8"
+        >
+          <div
+            class="overflow-hidden shadow ring-1 ring-black ring-opacity-5 md:rounded-lg"
+          >
+            <table
+              class="min-w-full divide-y divide-gray-300"
+            >
+              <thead
+                class="bg-gray-50"
+              >
+                <tr>
+                  <th
+                    class="py-3 pl-4 pr-3 text-center text-xs font-medium uppercase tracking-wide text-gray-500 sm:pl-6"
+                    scope="col"
+                  >
+                    Name
+                  </th>
+                  <th
+                    class="px-3 py-3 text-center text-xs font-medium uppercase tracking-wide text-gray-500 hidden md:block"
+                    scope="col"
+                  >
+                    Issuer
+                  </th>
+                  <th
+                    class="px-3 py-3 text-center text-xs font-medium uppercase tracking-wide text-gray-500"
+                    scope="col"
+                  >
+                    Highest Category
+                  </th>
+                  <th
+                    class="px-3 py-3 text-center text-xs font-medium uppercase tracking-wide text-gray-500 hidden md:block"
+                    scope="col"
+                  >
+                    Base Earn Cash Value (cents)
+                  </th>
+                  <th
+                    class="px-3 py-3 text-center text-xs font-medium uppercase tracking-wide text-gray-500"
+                    scope="col"
+                  >
+                    Value / $1
+                  </th>
+                </tr>
+              </thead>
+              <tbody
+                class="divide-y divide-gray-200 bg-white"
+              >
+                <tr>
+                  <td
+                    class="whitespace-nowrap py-4 pl-4 pr-3 text-sm font-medium text-gray-900 sm:pl-6 text-center"
+                  >
+                    Chase Sapphire Reserve
+                  </td>
+                  <td
+                    class="whitespace-nowrap px-3 py-4 text-sm text-gray-500 text-center hidden md:block"
+                  >
+                    Chase
+                  </td>
+                  <td
+                    class="whitespace-nowrap px-3 py-4 text-sm text-gray-500 text-center"
+                  >
+                    Travel (3x)
+                  </td>
+                  <td
+                    class="whitespace-nowrap px-3 py-4 text-sm text-gray-500 text-center hidden md:block"
+                  >
+                    1.5
+                  </td>
+                  <td
+                    class="whitespace-nowrap px-3 py-4 text-sm text-gray-500 text-center"
+                  >
+                    $0.045
+                  </td>
+                </tr>
+                <tr>
+                  <td
+                    class="whitespace-nowrap py-4 pl-4 pr-3 text-sm font-medium text-gray-900 sm:pl-6 text-center"
+                  >
+                    Chase Sapphire Preferred
+                  </td>
+                  <td
+                    class="whitespace-nowrap px-3 py-4 text-sm text-gray-500 text-center hidden md:block"
+                  >
+                    Chase
+                  </td>
+                  <td
+                    class="whitespace-nowrap px-3 py-4 text-sm text-gray-500 text-center"
+                  >
+                    Streaming (3x)
+                  </td>
+                  <td
+                    class="whitespace-nowrap px-3 py-4 text-sm text-gray-500 text-center hidden md:block"
+                  >
+                    1.25
+                  </td>
+                  <td
+                    class="whitespace-nowrap px-3 py-4 text-sm text-gray-500 text-center"
+                  >
+                    $0.0375
+                  </td>
+                </tr>
+                <tr>
+                  <td
+                    class="whitespace-nowrap py-4 pl-4 pr-3 text-sm font-medium text-gray-900 sm:pl-6 text-center"
+                  >
+                    Chase Freedom Flex
+                  </td>
+                  <td
+                    class="whitespace-nowrap px-3 py-4 text-sm text-gray-500 text-center hidden md:block"
+                  >
+                    Chase
+                  </td>
+                  <td
+                    class="whitespace-nowrap px-3 py-4 text-sm text-gray-500 text-center"
+                  >
+                    Travel (5x)
+                  </td>
+                  <td
+                    class="whitespace-nowrap px-3 py-4 text-sm text-gray-500 text-center hidden md:block"
+                  >
+                    1
+                  </td>
+                  <td
+                    class="whitespace-nowrap px-3 py-4 text-sm text-gray-500 text-center"
+                  >
+                    $0.05
+                  </td>
+                </tr>
+                <tr>
+                  <td
+                    class="whitespace-nowrap py-4 pl-4 pr-3 text-sm font-medium text-gray-900 sm:pl-6 text-center"
+                  >
+                    Chase Freedom Unlimited
+                  </td>
+                  <td
+                    class="whitespace-nowrap px-3 py-4 text-sm text-gray-500 text-center hidden md:block"
+                  >
+                    Chase
+                  </td>
+                  <td
+                    class="whitespace-nowrap px-3 py-4 text-sm text-gray-500 text-center"
+                  >
+                    Travel (5x)
+                  </td>
+                  <td
+                    class="whitespace-nowrap px-3 py-4 text-sm text-gray-500 text-center hidden md:block"
+                  >
+                    1
+                  </td>
+                  <td
+                    class="whitespace-nowrap px-3 py-4 text-sm text-gray-500 text-center"
+                  >
+                    $0.05
+                  </td>
+                </tr>
+                <tr>
+                  <td
+                    class="whitespace-nowrap py-4 pl-4 pr-3 text-sm font-medium text-gray-900 sm:pl-6 text-center"
+                  >
+                    Amex Platinum
+                  </td>
+                  <td
+                    class="whitespace-nowrap px-3 py-4 text-sm text-gray-500 text-center hidden md:block"
+                  >
+                    Amex
+                  </td>
+                  <td
+                    class="whitespace-nowrap px-3 py-4 text-sm text-gray-500 text-center"
+                  >
+                    Hotels (5x)
+                  </td>
+                  <td
+                    class="whitespace-nowrap px-3 py-4 text-sm text-gray-500 text-center hidden md:block"
+                  >
+                    1
+                  </td>
+                  <td
+                    class="whitespace-nowrap px-3 py-4 text-sm text-gray-500 text-center"
+                  >
+                    $0.05
+                  </td>
+                </tr>
+                <tr>
+                  <td
+                    class="whitespace-nowrap py-4 pl-4 pr-3 text-sm font-medium text-gray-900 sm:pl-6 text-center"
+                  >
+                    Amex Gold
+                  </td>
+                  <td
+                    class="whitespace-nowrap px-3 py-4 text-sm text-gray-500 text-center hidden md:block"
+                  >
+                    Amex
+                  </td>
+                  <td
+                    class="whitespace-nowrap px-3 py-4 text-sm text-gray-500 text-center"
+                  >
+                    Groceries (4x)
+                  </td>
+                  <td
+                    class="whitespace-nowrap px-3 py-4 text-sm text-gray-500 text-center hidden md:block"
+                  >
+                    1
+                  </td>
+                  <td
+                    class="whitespace-nowrap px-3 py-4 text-sm text-gray-500 text-center"
+                  >
+                    $0.04
+                  </td>
+                </tr>
+                <tr>
+                  <td
+                    class="whitespace-nowrap py-4 pl-4 pr-3 text-sm font-medium text-gray-900 sm:pl-6 text-center"
+                  >
+                    Amex Green
+                  </td>
+                  <td
+                    class="whitespace-nowrap px-3 py-4 text-sm text-gray-500 text-center hidden md:block"
+                  >
+                    Amex
+                  </td>
+                  <td
+                    class="whitespace-nowrap px-3 py-4 text-sm text-gray-500 text-center"
+                  >
+                    Transit (3x)
+                  </td>
+                  <td
+                    class="whitespace-nowrap px-3 py-4 text-sm text-gray-500 text-center hidden md:block"
+                  >
+                    1
+                  </td>
+                  <td
+                    class="whitespace-nowrap px-3 py-4 text-sm text-gray-500 text-center"
+                  >
+                    $0.03
+                  </td>
+                </tr>
+                <tr>
+                  <td
+                    class="whitespace-nowrap py-4 pl-4 pr-3 text-sm font-medium text-gray-900 sm:pl-6 text-center"
+                  >
+                    Amex Blue Cash EveryDay
+                  </td>
+                  <td
+                    class="whitespace-nowrap px-3 py-4 text-sm text-gray-500 text-center hidden md:block"
+                  >
+                    Amex
+                  </td>
+                  <td
+                    class="whitespace-nowrap px-3 py-4 text-sm text-gray-500 text-center"
+                  >
+                    Groceries (3x)
+                  </td>
+                  <td
+                    class="whitespace-nowrap px-3 py-4 text-sm text-gray-500 text-center hidden md:block"
+                  >
+                    1
+                  </td>
+                  <td
+                    class="whitespace-nowrap px-3 py-4 text-sm text-gray-500 text-center"
+                  >
+                    $0.03
+                  </td>
+                </tr>
+                <tr>
+                  <td
+                    class="whitespace-nowrap py-4 pl-4 pr-3 text-sm font-medium text-gray-900 sm:pl-6 text-center"
+                  >
+                    Amex EveryDay
+                  </td>
+                  <td
+                    class="whitespace-nowrap px-3 py-4 text-sm text-gray-500 text-center hidden md:block"
+                  >
+                    Amex
+                  </td>
+                  <td
+                    class="whitespace-nowrap px-3 py-4 text-sm text-gray-500 text-center"
+                  >
+                    Groceries (2x)
+                  </td>
+                  <td
+                    class="whitespace-nowrap px-3 py-4 text-sm text-gray-500 text-center hidden md:block"
+                  >
+                    1
+                  </td>
+                  <td
+                    class="whitespace-nowrap px-3 py-4 text-sm text-gray-500 text-center"
+                  >
+                    $0.02
+                  </td>
+                </tr>
+                <tr>
+                  <td
+                    class="whitespace-nowrap py-4 pl-4 pr-3 text-sm font-medium text-gray-900 sm:pl-6 text-center"
+                  >
+                    Capital One Venture
+                  </td>
+                  <td
+                    class="whitespace-nowrap px-3 py-4 text-sm text-gray-500 text-center hidden md:block"
+                  >
+                    Capital One
+                  </td>
+                  <td
+                    class="whitespace-nowrap px-3 py-4 text-sm text-gray-500 text-center"
+                  >
+                    Rental Cars (5x)
+                  </td>
+                  <td
+                    class="whitespace-nowrap px-3 py-4 text-sm text-gray-500 text-center hidden md:block"
+                  >
+                    1.25
+                  </td>
+                  <td
+                    class="whitespace-nowrap px-3 py-4 text-sm text-gray-500 text-center"
+                  >
+                    $0.0625
+                  </td>
+                </tr>
+                <tr>
+                  <td
+                    class="whitespace-nowrap py-4 pl-4 pr-3 text-sm font-medium text-gray-900 sm:pl-6 text-center"
+                  >
+                    Captial One Venture X
+                  </td>
+                  <td
+                    class="whitespace-nowrap px-3 py-4 text-sm text-gray-500 text-center hidden md:block"
+                  >
+                    Capital One
+                  </td>
+                  <td
+                    class="whitespace-nowrap px-3 py-4 text-sm text-gray-500 text-center"
+                  >
+                    Hotels (10x)
+                  </td>
+                  <td
+                    class="whitespace-nowrap px-3 py-4 text-sm text-gray-500 text-center hidden md:block"
+                  >
+                    1
+                  </td>
+                  <td
+                    class="whitespace-nowrap px-3 py-4 text-sm text-gray-500 text-center"
+                  >
+                    $0.1
+                  </td>
+                </tr>
+                <tr>
+                  <td
+                    class="whitespace-nowrap py-4 pl-4 pr-3 text-sm font-medium text-gray-900 sm:pl-6 text-center"
+                  >
+                    Amex Business Gold
+                  </td>
+                  <td
+                    class="whitespace-nowrap px-3 py-4 text-sm text-gray-500 text-center hidden md:block"
+                  >
+                    Amex
+                  </td>
+                  <td
+                    class="whitespace-nowrap px-3 py-4 text-sm text-gray-500 text-center"
+                  >
+                    Computer Hardware (2x)
+                  </td>
+                  <td
+                    class="whitespace-nowrap px-3 py-4 text-sm text-gray-500 text-center hidden md:block"
+                  >
+                    1
+                  </td>
+                  <td
+                    class="whitespace-nowrap px-3 py-4 text-sm text-gray-500 text-center"
+                  >
+                    $0.02
+                  </td>
+                </tr>
+                <tr>
+                  <td
+                    class="whitespace-nowrap py-4 pl-4 pr-3 text-sm font-medium text-gray-900 sm:pl-6 text-center"
+                  >
+                    Amex Business Platinum
+                  </td>
+                  <td
+                    class="whitespace-nowrap px-3 py-4 text-sm text-gray-500 text-center hidden md:block"
+                  >
+                    Amex
+                  </td>
+                  <td
+                    class="whitespace-nowrap px-3 py-4 text-sm text-gray-500 text-center"
+                  >
+                    Hotels (5x)
+                  </td>
+                  <td
+                    class="whitespace-nowrap px-3 py-4 text-sm text-gray-500 text-center hidden md:block"
+                  >
+                    1
+                  </td>
+                  <td
+                    class="whitespace-nowrap px-3 py-4 text-sm text-gray-500 text-center"
+                  >
+                    $0.05
+                  </td>
+                </tr>
+                <tr>
+                  <td
+                    class="whitespace-nowrap py-4 pl-4 pr-3 text-sm font-medium text-gray-900 sm:pl-6 text-center"
+                  >
+                    Chase Ink Business Preferred
+                  </td>
+                  <td
+                    class="whitespace-nowrap px-3 py-4 text-sm text-gray-500 text-center hidden md:block"
+                  >
+                    Chase
+                  </td>
+                  <td
+                    class="whitespace-nowrap px-3 py-4 text-sm text-gray-500 text-center"
+                  >
+                    Internet (3x)
+                  </td>
+                  <td
+                    class="whitespace-nowrap px-3 py-4 text-sm text-gray-500 text-center hidden md:block"
+                  >
+                    1.25
+                  </td>
+                  <td
+                    class="whitespace-nowrap px-3 py-4 text-sm text-gray-500 text-center"
+                  >
+                    $0.0375
+                  </td>
+                </tr>
+                <tr>
+                  <td
+                    class="whitespace-nowrap py-4 pl-4 pr-3 text-sm font-medium text-gray-900 sm:pl-6 text-center"
+                  >
+                    Chase Ink Business Cash
+                  </td>
+                  <td
+                    class="whitespace-nowrap px-3 py-4 text-sm text-gray-500 text-center hidden md:block"
+                  >
+                    Chase
+                  </td>
+                  <td
+                    class="whitespace-nowrap px-3 py-4 text-sm text-gray-500 text-center"
+                  >
+                    Office Supply (5x)
+                  </td>
+                  <td
+                    class="whitespace-nowrap px-3 py-4 text-sm text-gray-500 text-center hidden md:block"
+                  >
+                    1
+                  </td>
+                  <td
+                    class="whitespace-nowrap px-3 py-4 text-sm text-gray-500 text-center"
+                  >
+                    $0.05
+                  </td>
+                </tr>
+                <tr>
+                  <td
+                    class="whitespace-nowrap py-4 pl-4 pr-3 text-sm font-medium text-gray-900 sm:pl-6 text-center"
+                  >
+                    Chase Ink Business Unlimited
+                  </td>
+                  <td
+                    class="whitespace-nowrap px-3 py-4 text-sm text-gray-500 text-center hidden md:block"
+                  >
+                    Chase
+                  </td>
+                  <td
+                    class="whitespace-nowrap px-3 py-4 text-sm text-gray-500 text-center"
+                  >
+                    Everything Else (1.5x)
+                  </td>
+                  <td
+                    class="whitespace-nowrap px-3 py-4 text-sm text-gray-500 text-center hidden md:block"
+                  >
+                    1
+                  </td>
+                  <td
+                    class="whitespace-nowrap px-3 py-4 text-sm text-gray-500 text-center"
+                  >
+                    $0.015
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
