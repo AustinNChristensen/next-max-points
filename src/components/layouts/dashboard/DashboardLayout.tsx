@@ -25,12 +25,12 @@ const navigation = [
 
 export const DashboardLayout = ({ children, isHomePage = false }: PropsWithChildren<DashboardLayoutProps>) => {
     return (
-        <div className='h-full'>
+        <div className='min-h-screen h-full bg-gray-50'>
             <Head>
                 <title>Max Points</title>
             </Head>
             <div className='min-h-full'>
-                <div className='relative bg-gray-50 overflow-hidden'>
+                <div className='relative overflow-hidden'>
                     {isHomePage && (
                         <div
                             className='hidden sm:block sm:absolute sm:inset-y-0 sm:h-full sm:w-full'
